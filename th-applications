@@ -1,2 +1,8 @@
 schtasks.exe
 sshd.exe
+wscript.exe
+powershell.exe
+cmd.exe
+ntdsutil.exe
+ssh-keygen.exe
+icalcs.exe
