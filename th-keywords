@@ -8,6 +8,7 @@ whoami
 net start
 qprocess
 query
+find
 dir
 net view
 ping
@@ -18,6 +19,7 @@ net localgroup
 net group
 net config
 net share
+net view
 at
 reg
 wmic
@@ -39,3 +41,8 @@ netstat
 arp
 qwinsta
 sshd
+HKCU
+Get-MpPreference
+Get-MpThreat
+net user /domain
+cmdkey /list
