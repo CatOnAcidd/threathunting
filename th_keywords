@@ -1,0 +1,41 @@
+tasklist
+ver
+ipconfig
+systeminfo
+net time
+netstat
+whoami
+net start
+qprocess
+query
+dir
+net view
+ping
+net use
+type
+net user
+net localgroup
+net group
+net config
+net share
+at
+reg
+wmic
+wusa
+netsh advfirewall
+sc
+rundll32
+nslookup
+fsutil
+dsquery
+csvde
+nbtstat
+net session
+nltest
+wevtutil
+tree
+rundll32
+netstat
+arp
+qwinsta
+sshd
